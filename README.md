@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @b0r4
+- 👀 I’m interested in css
